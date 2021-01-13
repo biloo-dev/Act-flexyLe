@@ -1,0 +1,8 @@
+node_modules
+keys
+.key.pem
+.key.txt
+.keyCrypted.key
+.license.txt
+.mynewfile1.json
+.test.json
